@@ -5,8 +5,6 @@
 
 - 🌱 I’m currently learning **Astro, React, Python, php**
 
-- 👨‍💻 All of my projects are available at [www.ponerportfolio.com](www.ponerportfolio.com)
-
 - 💬 Ask me about **Angular, js**
 
 - 📫 How to reach me **pconejos03@gmail.com**
