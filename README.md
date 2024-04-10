@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Pablo Conejos</h1>
 <h3 align="center">Young developer from Spain</h3>
 
-- 🔭 I’m currently working on **Avista a SumValue Project and my owns projects**
+- 🔭 I’m currently working on **Visiono a SumValue Project and my owns projects**
 
 - 🌱 I’m currently learning **Astro, React, Python, php**
 
