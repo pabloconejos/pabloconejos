@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Astro, React, Python, php**
 
-- 💬 Ask me about **Angular, js**
+- 💬 Ask me about **Angular, js, ts**
 
 - 📫 How to reach me **pconejos03@gmail.com**
 
